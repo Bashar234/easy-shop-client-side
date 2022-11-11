@@ -64,7 +64,7 @@ const MyReview = () => {
 
   return (
     <div className="container my-5">
-      <h3>My </h3>
+      <h3>My Review</h3>
       <hr />
       <div className="editReviewForm my-3">
         {editForm && (
