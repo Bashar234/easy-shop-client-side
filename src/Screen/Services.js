@@ -60,7 +60,7 @@ const Services = () => {
                         to={`/single-food/${item._id}`}
                         className="btn btn-primary"
                       >
-                        View Details
+                        View 
                       </Link>
                     </div>
                   </div>
