@@ -6,7 +6,7 @@ const Blog = () => {
   }, []);
   return (
     <div className="container my-5">
-      <h2 className="text-danger my-2">Important Topic</h2>
+      <h2 className="text-danger my-2"> Topic</h2>
       <div>
         <div className="p-2">
           <div className="p-2 my-2 card">
