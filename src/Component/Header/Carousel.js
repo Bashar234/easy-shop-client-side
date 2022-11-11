@@ -34,7 +34,7 @@ const CarouselMenu = () => {
             className="carousel-control-prev-icon"
             aria-hidden="true"
           ></span>
-          <span className="sr-only"></span>
+          <span className="sr-only">Previous</span>
         </a>
         <a
           className="carousel-control-next"
