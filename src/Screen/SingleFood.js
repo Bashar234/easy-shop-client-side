@@ -82,7 +82,7 @@ const SingleFood = () => {
                     <Link className="mx-1" to="/user/login">
                       Login
                     </Link>
-                    to add a 
+                    to add a review
                   </h4>
                 </div>
               )}
