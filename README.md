@@ -1,3 +1,13 @@
+## live-site-link 
+https://essay-shop.web.app
+## Features
+- I will create this website by Firebase, 
+- I will create this website by Mongodb,
+- I will also use Tailwind and Daisy UI,
+- This is very useful for new businessman,
+- I hope that this is useful for many men.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
