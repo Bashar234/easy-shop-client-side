@@ -18,7 +18,7 @@ const HomeProduct = () => {
     <div>
       <div>
         <div className="services container my-4">
-          <h3>Servicess</h3>
+          <h3>Services</h3>
           <hr />
           <div className="row mt-3">
             <div className="col-md-2">
